@@ -1,17 +1,3 @@
 [
-  {
-    "name": "كتاب تمارين السلسلة الفضية ج1",
-    "id": "1jdxkJmYJEqoGEZKDSymHA1yxv6TPz7dF",
-    "type": "pdf"
-  },
-  {
-    "name": "صورة مثال",
-    "url": "https://www.dzexams.com/uploads/content/albums/anglais-basma/04.jpg",
-    "type": "image"
-  },
-  {
-    "name": "ملف PDF مباشر",
-    "url": "https://example.com/file.pdf",
-    "type": "pdf-direct"
-  }
+  {"name": "كتاب تمارين السلسلة الفضية ج1","id": "1jdxkJmYJEqoGEZKDSymHA1yxv6TPz7dF" }
 ]
