@@ -1,23 +1,28 @@
-{
-  "علوم": [
+[
     {
-      "name": "حوليات في العلوم الاسلامية",
-      "id": "1He5h6sUqzBFHDd6KansOqFAeTza5aSh9"
+        "subject": "علوم",
+        "books": [
+            {
+                "id": "1He5h6sUqzBFHDd6KansOqFAeTza5aSh9",
+                "name": "حوليات في العلوم الاسلامية"
+            },
+            {
+                "id": "1jdxkJmYJEqoGEZKDSymHA1yxv6TPz7dF",
+                "name": "كتاب تمارين السلسلة الفضية ج1"
+            }
+        ]
     },
     {
-      "name": "كتاب تمارين السلسلة الفضية ج1",
-      "id": "1jdxkJmYJEqoGEZKDSymHA1yxv6TPz7dF"
+        "subject": "رياضيات",
+        "books": [
+            {
+                "id": "1I8erS4eJzpumeOQK6KKvtoZheMpOQYwz",
+                "name": "فرض رياضيات 2"
+            },
+            {
+                "id": "1D7rBMtu0WvbIXMGtocUeWplKVyZkzjaY",
+                "name": "فرض رياضيات 3"
+            }
+        ]
     }
-  ],
-  "رياضيات": [
-    {
-      "name": "فرض رياضيات 2",
-      "id": "1I8erS4eJzpumeOQK6KKvtoZheMpOQYwz"
-    },
-    {
-      "name": "فرض رياضيات 3",
-      "id": "1D7rBMtu0WvbIXMGtocUeWplKVyZkzjaY"
-    }
-  ]
-}
-
+]
