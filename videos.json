@@ -1,6 +1,5 @@
 [
 
-  "علوم طبيعية": [
     {
       "name": "حوليات في العلوم الاسلامية",
       "id": "1He5h6sUqzBFHDd6KansOqFAeTza5aSh9"
@@ -8,9 +7,12 @@
     {
       "name": "كتاب تمارين السلسلة الفضية ج1",
       "id": "1jdxkJmYJEqoGEZKDSymHA1yxv6TPz7dF"
-    }
-  ],
-  "رياضيات": [
+    },
+  {
+      "name": "مادة العلوم",
+      "id": ""
+    },
+  
     {
       "name": "فرض رياضيات 2",
       "id": "1I8erS4eJzpumeOQK6KKvtoZheMpOQYwz"
@@ -19,5 +21,5 @@
       "name": "فرض رياضيات 3",
       "id": "1D7rBMtu0WvbIXMGtocUeWplKVyZkzjaY"
     }
-  ]}
+ 
 ]
