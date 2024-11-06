@@ -1,28 +1,42 @@
 [
-    {
-        "subject": "علوم",
-        "books": [
-            {
-                "id": "1He5h6sUqzBFHDd6KansOqFAeTza5aSh9",
-                "name": "حوليات في العلوم الاسلامية"
-            },
-            {
-                "id": "1jdxkJmYJEqoGEZKDSymHA1yxv6TPz7dF",
-                "name": "كتاب تمارين السلسلة الفضية ج1"
-            }
-        ]
-    },
-    {
-        "subject": "رياضيات",
-        "books": [
-            {
-                "id": "1I8erS4eJzpumeOQK6KKvtoZheMpOQYwz",
-                "name": "فرض رياضيات 2"
-            },
-            {
-                "id": "1D7rBMtu0WvbIXMGtocUeWplKVyZkzjaY",
-                "name": "فرض رياضيات 3"
-            }
-        ]
-    }
+  {
+    "name": "دروس في العلوم الطبيعية",
+    "youtube_url": "https://www.youtube.com/channel/UCxxxxx123"
+  },
+  {
+    "name": "دروس في التاريخ",
+    "youtube_url": "https://www.youtube.com/channel/UCxxxxx456"
+  },
+  {
+    "name": "دروس في الجغرافيا",
+    "youtube_url": "https://www.youtube.com/channel/UCxxxxx789"
+  },
+  {
+    "name": "دروس في الفلسفة",
+    "youtube_url": "https://www.youtube.com/channel/UCxxxxx101"
+  },
+  {
+    "name": "دروس في الرياضيات",
+    "youtube_url": "https://www.youtube.com/channel/UCxxxxx112"
+  },
+  {
+    "name": "دروس في اللغة العربية",
+    "youtube_url": "https://www.youtube.com/channel/UCxxxxx113"
+  },
+  {
+    "name": "دروس في اللغة الإنجليزية",
+    "youtube_url": "https://www.youtube.com/channel/UCxxxxx114"
+  },
+  {
+    "name": "دروس في الكيمياء",
+    "youtube_url": "https://www.youtube.com/channel/UCxxxxx115"
+  },
+  {
+    "name": "دروس في الفيزياء",
+    "youtube_url": "https://www.youtube.com/channel/UCxxxxx116"
+  },
+  {
+    "name": "دروس في التربية الإسلامية",
+    "youtube_url": "https://www.youtube.com/channel/UCxxxxx117"
+  }
 ]
