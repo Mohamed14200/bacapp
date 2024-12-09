@@ -6,7 +6,7 @@
             "category": "main",
             "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d",
             "ingredients": [
-                "دجاجة كاملة",
+                " دجاجة كاملة كبيرة",
                 "3 أكواب أرز بسمتي",
                 "2 بصل مفروم",
                 "2 طماطم مفرومة",
