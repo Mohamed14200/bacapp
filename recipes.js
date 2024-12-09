@@ -142,7 +142,7 @@
   "id": 7,
   "title": "قراتان",
   "category": "main",
-  "image": "https://modo3.com/thumbs/fit630x300/84136/1480582150/%D8%A3%D9%86%D9%88%D8%A7%D8%B9_%D8%A7%D9%84%D8%BA%D8%B1%D8%A7%D8%AA%D8%A7%D9%86_%D9%81%D9%8A_%D8%A7%D9%84%D9%81%D8%B1%D9%86.jpg",
+  "image": "https://images.unsplash.com/photo-1519676867240-f03562e64548",
   "ingredients": [
     "بطاطا",
     "بصل",
