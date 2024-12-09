@@ -137,6 +137,22 @@
                 "يقدم مع الخبز العربي"
             ],
             "favorite": false
-        }
+        },
+        {
+  "id": 7,
+  "title": "قراتان",
+  "category": "main",
+  "imageUrl": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d",
+  "ingredients": [
+    "بطاطا",
+    "بصل",
+    "2 ثوم"
+  ],
+  "steps": [
+    "ىلاىابلابلا",
+    "بلابلالا"
+  ],
+  "favorite": false
+}
     ]
 }
