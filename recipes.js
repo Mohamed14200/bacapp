@@ -1,4 +1,4 @@
-const recipes = {
+{
     "recipes": [
         {
             "id": 1,
@@ -139,29 +139,4 @@ const recipes = {
             "favorite": false
         }
     ]
-};
-
-// حفظ الوصفات في localStorage
-if (!localStorage.getItem('recipes')) {
-    localStorage.setItem('recipes', JSON.stringify(recipes));
-}
-
-// استرجاع الوصفات من localStorage
-function getRecipes() {
-    return JSON.parse(localStorage.getItem('recipes')) || recipes;
-}
-
-// تحديث الوصفات في localStorage
-function updateRecipes(updatedRecipes) {
-    localStorage.setItem('recipes', JSON.stringify(updatedRecipes));
-}
-
-// حفظ إعدادات التطبيق
-function saveSettings(settings) {
-    localStorage.setItem('appSettings', JSON.stringify(settings));
-}
-
-// استرجاع إعدادات التطبيق
-function getSettings() {
-    return JSON.parse(localStorage.getItem('appSettings')) || { fontSize: 16 };
 }
