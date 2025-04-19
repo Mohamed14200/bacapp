@@ -23,6 +23,24 @@
           ]
         }
       ]
+    },
+    {
+      "id": "subj-arab",
+      "name": "اللغة العربية",
+      "category": "literary",
+      "topics": [
+        {
+          "id": "arab-topic-1",
+          "name": "شعر المهجر",
+          "priority": 2,
+          "estimated_hours": 1.5,
+          "subtasks": [
+            "- نصوص",
+            "- دروس"
+          ],
+          "resources": []
+        }
+      ]
     }
   ]
 }
